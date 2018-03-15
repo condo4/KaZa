@@ -1,0 +1,3 @@
+[submodule "KnxQApp"]
+	path = KnxQApp
+	url = https://github.com/condo4/KnxQApp.git
