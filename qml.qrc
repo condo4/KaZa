@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Maison.qml</file>
+        <file>MaisonForm.ui.qml</file>
+        <file>Widget/Dimmer.qml</file>
+        <file>Widget/DimmerForm.ui.qml</file>
+        <file>Widget/Shutter.qml</file>
+        <file>Widget/ShutterForm.ui.qml</file>
+        <file>Widget/LightControler.qml</file>
+        <file>Widget/LightControlerForm.ui.qml</file>
+        <file>Widget/Light.qml</file>
+        <file>Widget/LightForm.ui.qml</file>
+        <file>Widget/Presence.qml</file>
+        <file>Widget/PresenceForm.ui.qml</file>
+        <file>Widget/Sensor.qml</file>
+        <file>Widget/SensorForm.ui.qml</file>
+        <file>Connection.qml</file>
+        <file>ConnectionForm.ui.qml</file>
+        <file>PlanRDC.qml</file>
+        <file>PlanRDCForm.ui.qml</file>
+        <file>PlanEtage.qml</file>
+        <file>PlanEtageForm.ui.qml</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file alias="Light_OFF.png">Images/Jardin_off.png</file>
+        <file alias="Light_ON.png">Images/Jardin_vert.png</file>
+        <file alias="Plan_RDC3.jpg">Images/Plan_RDC3.jpg</file>
+        <file alias="Plan_Etage.jpg">Images/Plan_Etage.jpg</file>
+    </qresource>
+</RCC>
